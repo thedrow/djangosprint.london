@@ -77,7 +77,9 @@ a:hover {
   max-height: 200px;
 }
 footer {
-  margin: 30px 0;
+  padding: 30px 0;
+  margin-top: 30px;
+  background: rgba(0,0,0,0.1);
 }
 footer ul {
   list-style-type: none;
@@ -87,4 +89,7 @@ footer ul {
 footer ul li {
   display: inline;
   margin-right: 30px;
+}
+footer ul li .umbrella-ella-ella {
+  width: 40px;
 }
